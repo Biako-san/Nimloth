@@ -1,5 +1,17 @@
-p {
+* {
 	font-family: Raleway, sans-serif;
+}
+
+p {
 	font-size: 42pt;
-	color: black;
+	color: #464747;
+}
+
+.heading::first-letter {
+	color: #bc4636;
+	font-size: 56pt;
+}
+
+.info-w {
+	font-size: 10pt;
 }
