@@ -1,5 +1,10 @@
 * {
-	font-family: 'Give You Glory', cursive;
+	font-family: 'Raleway', cursive;
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
 }
 
 .heading {
@@ -16,11 +21,10 @@
 
 .info-h {
 	margin-top: -39px;
-	font-family: 'Raleway', sans-serif;
 	font-size: 10px;
 	font-style: italic;
 }
 
 .header {
-	margin-left: 80px;
+	margin-left: 10px;
 }
