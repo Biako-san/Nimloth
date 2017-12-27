@@ -1,17 +1,26 @@
 * {
-	font-family: Raleway, sans-serif;
+	font-family: 'Give You Glory', cursive;
 }
 
-p {
-	font-size: 42pt;
-	color: #464747;
+.heading {
+	font-size: 30px;
+	color: #adadad;
+	font-family: 'MedievalSharp', cursive;
 }
 
 .heading::first-letter {
-	color: #bc4636;
-	font-size: 56pt;
+	font-family: 'MedievalSharp', cursive;
+	color: #383737;
+	font-size: 36px;
 }
 
-.info-w {
-	font-size: 10pt;
+.info-h {
+	margin-top: -39px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 10px;
+	font-style: italic;
+}
+
+.header {
+	margin-left: 80px;
 }
